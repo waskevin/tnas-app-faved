@@ -1,0 +1,17 @@
+{
+  "architectures": [
+    "amd64",
+    "arm64"
+  ],
+  "developer": "管浩良",
+  "submission_status": "not_submitted",
+  "number": 6,
+  "screenshot_status": "captured",
+  "dual_arch": true,
+  "name": "Faved",
+  "source": "https://faved.to/",
+  "screenshot_path": "precheck-screenshots/faved/x86_64/run.png",
+  "developer_account": "k.kuan@qq.com",
+  "docker_hub": "denho/faved",
+  "tag": "build-202610280958-demo"
+}
