@@ -1,0 +1,6 @@
+services:
+  faved:
+    image: denho/faved:build-202610280958-demo
+    restart: unless-stopped
+    environment:
+      TZ: Asia/Shanghai
